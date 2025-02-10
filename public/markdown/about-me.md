@@ -2,11 +2,10 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am a Junior Software Engineer looking for my next role to build great applications that can make a difference.
+I'm trying to build a better world one line of code at a time.
 
-I'm trying to find a balance between research and engineering.
-
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
+I'm currently working on building a strong portfolio. I have previously worked at [Northcoders](https://www.northcoders.com), [Tech Returners](https://www.techreturners.com) and Ultimate Hero.
 
 I'm also learning web development and building machine learning software and systems.
 
@@ -15,18 +14,13 @@ I'm also learning web development and building machine learning software and sys
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- [Email](mailto:francesco.vurchio82gmail.com)
+- [GitHub](https://github.com/munaciella)
+- [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
+- [Portfolio Website](https://francesco-dev.vercel.app/)
+- [3D Portfolio](https://francescovurchio-dev.netlify.app/)
 
 
 ## Résumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+- [View my Résumé](https://docs.google.com/document/d/1WbMqzAX00FLhDzsRmBWmYEBHsLUjTYacBiNrnjoMzb4/edit?usp=sharing)

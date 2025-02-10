@@ -3,3 +3,7 @@
 .cache/
 node_modules/
 dist/
+
+.github/
+# VSCode
+.vscode/
