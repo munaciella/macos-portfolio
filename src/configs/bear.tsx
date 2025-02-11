@@ -37,7 +37,7 @@ const bear: BearData[] = [
       {
         id: "portfolio-macos",
         title: "Portfolio macOS",
-        file: "https://github.com/munaciella/macos-portfolio/blob/main/README.md",
+        file: "https://raw.githubusercontent.com/munaciella/macos-portfolio/main/README.md",
         icon: "i-ri:gamepad-line",
         excerpt: "My portfolio website simulating macOS's GUI...",
         link: "https://munaciella.github.io/macos-portfolio/"
@@ -45,7 +45,7 @@ const bear: BearData[] = [
       {
         id: "oh-my-cv",
         title: "Oh, My CV!",
-        file: "https://raw.githubusercontent.com/Renovamen/oh-my-cv/main/README.md",
+        file: "https://raw.githubusercontent.com/munaciella/networking-platform-v2/main/README.md",
         icon: "i-ri:newspaper-fill",
         excerpt: "Write your curriculum vitae / resume in Markdown online...",
         link: "https://ohmycv.app"

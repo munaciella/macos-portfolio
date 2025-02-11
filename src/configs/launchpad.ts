@@ -14,40 +14,40 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://networked.vercel.app/"
   },
   {
-    id: "oh-vue-icons",
-    title: "Oh, Vue Icons!",
-    img: "img/icons/launchpad/oh-vue-icons.png",
-    link: "https://oh-vue-icons.js.org"
+    id: "eventsphere",
+    title: "EventSphere",
+    img: "img/icons/launchpad/eventsphere.png",
+    link: "https://event-sphere-web.netlify.app/"
   },
   {
-    id: "gungnir",
-    title: "Gungnir",
-    img: "img/icons/launchpad/gungnir.png",
-    link: "https://vuepress-theme-gungnir.vercel.app/"
+    id: "wax",
+    title: "Wax",
+    img: "img/icons/launchpad/wax.png",
+    link: "https://github.com/munaciella/gatefold-frontend"
   },
   {
-    id: "cube",
-    title: "Cube Solver",
-    img: "img/icons/launchpad/cube.png",
-    link: "https://cube.zxh.io/"
+    id: "munaciella news",
+    title: "Munaciella News",
+    img: "img/icons/launchpad/munaciella-news.jpg",
+    link: "https://munaciella.netlify.app/"
   },
   {
-    id: "resume",
-    title: "Résumé",
-    img: "img/icons/launchpad/resume.png",
-    link: "https://resume.zxh.io/"
+    id: "velovegans",
+    title: "VeloVegans",
+    img: "img/icons/launchpad/velovegans.png",
+    link: "https://velovegans.co.uk"
   },
   {
-    id: "zelda",
-    title: "Webpage for Zelda",
-    img: "img/icons/launchpad/zelda.png",
-    link: "https://zelda.zxh.io/"
+    id: "pair sniper",
+    title: "Pair Sniper",
+    img: "img/icons/launchpad/pairsniper.png",
+    link: "https://github.com/munaciella/data-analytics-api"
   },
   {
-    id: "fishmail",
-    title: "Fishmail",
-    img: "img/icons/launchpad/fishmail.png",
-    link: "https://fishmail.vercel.app/"
+    id: "devups",
+    title: "Dev Ups",
+    img: "img/icons/launchpad/devups.png",
+    link: "https://devups-notes.vercel.app/"
   }
 ];
 
